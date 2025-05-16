@@ -1,0 +1,16 @@
+looks like i have to learn using github first
+
+for now i treat it like some sort of online storage, workspace??
+aaah so thats why it is called Repository
+
+Repository - Storing my porject in one place
+Untuk Repository bisa diakses dari luar github, contohnya di VScode. untuk setiap perubahan di dalam Repo ini, harus dilakukan commit
+
+commit - menyimpan perubahan di repo, treat it like some kind of version update
+
+adding Branch (main branch and others) - dalam satu Repo bisa dibuat beberapa cabang, biasanya untuk pengetesan
+Branch tersebut dapat digabung kedalam "Main Branch", anggap saja Program uji coba disahkan menjadi versi Official
+
+Okay then, jadi kenapa di setiap repo ada banyak folder?
+they look the same though. apa memang standar repository begitu
+coba kita lihat deh beberapa contoh repo
